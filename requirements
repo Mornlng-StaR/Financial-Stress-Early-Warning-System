@@ -1,0 +1,15 @@
+# --- Core Data Processing ---
+pandas
+numpy
+
+# --- Machine Learning (Phase 6) ---
+scikit-learn
+xgboost
+
+# --- Interactive Dashboard (Phase 9) ---
+streamlit
+plotly
+matplotlib
+
+# --- Utilities ---
+os-sys
