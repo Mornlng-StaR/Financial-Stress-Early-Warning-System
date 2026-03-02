@@ -34,6 +34,19 @@ Exportable Results: Includes a "Download Report" feature to facilitate immediate
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+DEMO :
+
+<img width="1901" height="554" alt="Screenshot 2026-03-02 213605" src="https://github.com/user-attachments/assets/8ac38178-c294-4c13-96f0-ecf128a1775a" />
+
+
+
+<img width="1812" height="759" alt="Screenshot 2026-03-02 213620" src="https://github.com/user-attachments/assets/99d7497d-af19-49c9-bf57-197d64521410" />
+
+
+
+<img width="1792" height="612" alt="Screenshot 2026-03-02 213631" src="https://github.com/user-attachments/assets/e629acab-bd73-469d-b83a-d41a32721472" />
+
+
 Author: Ayush
 
 Role: Data Analyst / ML Developer
