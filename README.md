@@ -31,10 +31,7 @@ Heatmap Visualization: Uses color-coded gradients to highlight the most critical
 
 Exportable Results: Includes a "Download Report" feature to facilitate immediate banking intervention.
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-DEMO :
+**Screenshots**:
 
 <img width="1901" height="554" alt="Screenshot 2026-03-02 213605" src="https://github.com/user-attachments/assets/8ac38178-c294-4c13-96f0-ecf128a1775a" />
 
@@ -46,7 +43,8 @@ DEMO :
 
 <img width="1792" height="612" alt="Screenshot 2026-03-02 213631" src="https://github.com/user-attachments/assets/e629acab-bd73-469d-b83a-d41a32721472" />
 
-
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 Author: Ayush
 
 Role: Data Analyst / ML Developer
